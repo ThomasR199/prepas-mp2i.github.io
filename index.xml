@@ -249,7 +249,7 @@ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas fa
 &lt;p&gt;Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
 En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
 Voici un récapitulatif des différentes filières en deuxième année :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mp2i-france.github.io/mp2i-france-website/images/deuxieme_annee.png&#34; alt=&#34;Spécialités en deuxième année&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mp2i-france.github.io/mp2i-france-website/img/deuxieme_annee.png&#34; alt=&#34;Spécialités en deuxième année&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l&amp;rsquo;informatique ne vous convient pas.
 Le passage en PSI est techniquement possible mais n&amp;rsquo;a pas été constaté.&lt;/p&gt;
 &lt;h2 id=&#34;la-mp2i-en-quelques-chiffres&#34;&gt;La MP2I en quelques chiffres&lt;/h2&gt;
@@ -277,13 +277,15 @@ Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que 
 &lt;li&gt;Lycée Franklin Roosevelt (Reims) : 50,43%&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;les-places-aux-concours&#34;&gt;Les places aux concours&lt;/h2&gt;
-&lt;p&gt;Il faut savoir que rien n&amp;rsquo;est encore fixé et que ce sont des engagements de minimum mais voici une petite idée des places aux concours 2023 :
--L&amp;rsquo;X : 30 places
--Les ENS : 30 places&lt;/p&gt;
-&lt;p&gt;-Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l&amp;rsquo;ENSTA, (20 à 30)[https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa] pour Telecom Paris, une dizaine pour SUPAERO)&lt;/p&gt;
-&lt;p&gt;-CCINP : au moins 200 places (dont 40 pour L&amp;rsquo;Ensimag)&lt;/p&gt;
+&lt;p&gt;Il faut savoir que rien n&amp;rsquo;est encore fixé et que ce sont des engagements de minimum mais voici une petite idée des places aux concours 2023 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L&amp;rsquo;X : 30 places&lt;/li&gt;
+&lt;li&gt;Les ENS : 30 places&lt;/li&gt;
+&lt;li&gt;Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l&amp;rsquo;ENSTA, &lt;a href=&#34;https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa&#34;&gt;20 à 30 pour Telecom Paris&lt;/a&gt;, une dizaine pour SUPAERO)&lt;/li&gt;
+&lt;li&gt;CCINP : au moins 200 places (dont 40 pour L&amp;rsquo;Ensimag)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;les-prépas-mp2i-en-france&#34;&gt;Les prépas MP2I en France&lt;/h2&gt;
-&lt;p&gt;lien vers la carte : &lt;a href=&#34;https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&amp;amp;usp=sharing&#34;&gt;Carte&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lien vers la carte : &lt;a href=&#34;https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&amp;amp;usp=sharing&#34;&gt;Carte&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&amp;hl=fr&#34; width=&#34;800&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;
 </description>
 		</item>
@@ -300,6 +302,7 @@ Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que 
 &lt;p&gt;Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en terminale, si possible trois en première mais ce n’est pas essentiel.&lt;/p&gt;
 &lt;p&gt;La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.&lt;/p&gt;
 &lt;p&gt;Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.&lt;/p&gt;
+&lt;p&gt;N.B : Il reste possible d&amp;rsquo;intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie du tout lors de votre première et de votre Terminale.&lt;/p&gt;
 &lt;h1 id=&#34;parcoursup&#34;&gt;Parcoursup&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;La MP2I sur parcoursup&lt;/li&gt;
@@ -334,6 +337,13 @@ Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que 
 &lt;td style=&#34;text-align:center&#34;&gt;Paris 06&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;3057&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;278&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Janson de Sailly&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paris 16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2931&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;379&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
