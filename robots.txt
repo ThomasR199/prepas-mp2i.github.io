@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://mp2i-france.github.io/mp2i-france-website/sitemap.xml
