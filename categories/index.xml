@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Catégorie - PREPAS MP2I</title>
-        <link>https://mp2i-france.github.io/mp2i-france-website/categories/</link>
+        <link>https://mp2i-france.github.io/categories/</link>
         <description>Categories - Catégorie - PREPAS MP2I</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com (MP2I)</managingEditor>
-            <webMaster>mp2i@protonmail.com (MP2I)</webMaster><atom:link href="https://mp2i-france.github.io/mp2i-france-website/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>mp2i@protonmail.com (MP2I)</webMaster><atom:link href="https://mp2i-france.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
