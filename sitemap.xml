@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mp2i-france.github.io/mp2i-france-website/posts/ressources/</loc>
-    <lastmod>2021-12-20T00:09:11+01:00</lastmod>
+    <loc>https://mp2i-france.github.io/mp2i-france-website/posts/cours/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mp2i-france.github.io/mp2i-france-website/posts/</loc>
-    <lastmod>2021-12-20T00:09:11+01:00</lastmod>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mp2i-france.github.io/mp2i-france-website/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mp2i-france.github.io/mp2i-france-website/posts/ressources/</loc>
     <lastmod>2021-12-20T00:09:11+01:00</lastmod>
   </url><url>
     <loc>https://mp2i-france.github.io/mp2i-france-website/posts/participer/</loc>

@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Prépas MP2I</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MP2I — All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:09:11 +0100</lastBuildDate><atom:link href="https://mp2i-france.github.io/mp2i-france-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mp2i-france.github.io/mp2i-france-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les cours d&#39;informatique en MP2I</title>
+      <link>https://mp2i-france.github.io/mp2i-france-website/posts/cours/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mp2i-france.github.io/mp2i-france-website/posts/cours/</guid>
+      <description>Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
+Vous vous demandez surement en quoi consiste le cours d&amp;rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !
+Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
+Repartition horraire    Au premier semestre, les cours d&amp;rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&amp;rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)     Cours : cours théorique en classe entière, comme en maths.</description>
+    </item>
+    
     <item>
       <title>Les ressources utiles</title>
       <link>https://mp2i-france.github.io/mp2i-france-website/posts/ressources/</link>
