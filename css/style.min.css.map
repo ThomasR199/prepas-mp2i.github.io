@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/runner/work/mp2i-france-website/mp2i-france-website",
+	"sourceRoot": "/home/runner/work/prepas-mp2i-website/prepas-mp2i-website",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",
