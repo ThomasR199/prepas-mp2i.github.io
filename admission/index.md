@@ -83,3 +83,12 @@ Les critères pour être admis en internat concernent majoritairement les appré
 | Public | Centre International de Valbonne | Valbonne |38|844|324|
 | Public | Charles Coëffin | Baie-Mahault |74|145|107|
 
+## Lycées ouvrant une classe à la rentrée 2022
+
+| Type    | Lycée | Ville |
+|:-------:|:-----:|:-----:
+| Public | Alain René Lesage | Vannes |
+| Public | Camille Guérin | Poitiers |
+| Public | Henri Poincaré | Nancy |
+| Public | Leconte De Lisle | Saint-Denis |
+
