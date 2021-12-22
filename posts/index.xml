@@ -1,58 +1,58 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tous Posts - PREPAS MP2I</title>
-        <link>https://mp2i-france.github.io/posts/</link>
+        <link>https://mp2i-france.github.io/mp2i-france-website/posts/</link>
         <description>Tous Posts | PREPAS MP2I</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com (MP2I)</managingEditor>
-            <webMaster>mp2i@protonmail.com (MP2I)</webMaster><lastBuildDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mp2i-france.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mp2i@protonmail.com (MP2I)</webMaster><lastBuildDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mp2i-france.github.io/mp2i-france-website/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Les cours d&#39;informatique en MP2I</title>
-    <link>https://mp2i-france.github.io/informatique/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/informatique/</link>
     <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/informatique/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/informatique/</guid>
     <description><![CDATA[Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
 Vous vous demandez surement en quoi consiste le cours d&rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !
 Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 Répartition horaire  Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)   Cours : cours théorique en classe entière, comme en maths.]]></description>
 </item><item>
     <title>Les ressources utiles</title>
-    <link>https://mp2i-france.github.io/ressources/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/ressources/</link>
     <pubDate>Mon, 20 Dec 2021 00:09:11 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/ressources/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/ressources/</guid>
     <description><![CDATA[Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d&rsquo;une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.
 S&rsquo;intéresser La curiosité, la capacité d&rsquo;émerveillement est une grande motivation à l&rsquo;entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes.]]></description>
 </item><item>
     <title>Participer au projet</title>
-    <link>https://mp2i-france.github.io/participer/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/participer/</link>
     <pubDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/participer/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/participer/</guid>
     <description><![CDATA[Ce site web à pour but de mettre en avant la fillière MP2I.
 Nous voulons y rassembler les premiers témoignages ainsi que des conseils pour nous rejoindre !
 Vous pouvez commencer à compléter les fichiers dans le dossier contenu, et n&rsquo;hésitez pas à contacter mp2i@protonmail.com si vous voulez rejoindre le projet !]]></description>
 </item><item>
     <title>Qui sommes-nous?</title>
-    <link>https://mp2i-france.github.io/contact/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/contact/</link>
     <pubDate>Mon, 20 Dec 2021 00:07:53 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/contact/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/contact/</guid>
     <description><![CDATA[Nous sommes des actuellement des élèves de MP2I des quatre coins de la France. Notre objectif en créant ce site est d&rsquo;aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&rsquo;attendez plus, venez découvrir l&rsquo;entièreté de ce site !]]></description>
 </item><item>
     <title>Les filières pour l&#39;informatique</title>
-    <link>https://mp2i-france.github.io/mp2i/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/mp2i/</link>
     <pubDate>Mon, 20 Dec 2021 00:07:18 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/mp2i/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/mp2i/</guid>
     <description><![CDATA[Les classes préparatoires La prépa est une formation théorique très complète pour préparer les concours de seconde année afin de rejoindre une école d&rsquo;ingénieurs. La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs. Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
    Filière Spécialité Maths Physique/Chimie Chimie Informatique SI LV1 Français SVT     MPSI Mathématiques 12 6 2 1.]]></description>
 </item><item>
     <title>Les spécialités au lycée</title>
-    <link>https://mp2i-france.github.io/admission/</link>
+    <link>https://mp2i-france.github.io/mp2i-france-website/admission/</link>
     <pubDate>Mon, 20 Dec 2021 00:05:32 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://mp2i-france.github.io/admission/</guid>
+    <guid>https://mp2i-france.github.io/mp2i-france-website/admission/</guid>
     <description><![CDATA[L&rsquo;option maths expertes En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths experte même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier.]]></description>
 </item></channel>
 </rss>
