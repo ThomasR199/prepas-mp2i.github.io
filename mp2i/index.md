@@ -12,7 +12,7 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 |   MPSI   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
 |   MP2I   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
 |   PCSI   |        Physique        |  10  |        8        |    4   |      1.5     |   4  |  2  |     2    |  0  |
-|   PTSI   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8h30 |  2  |     2    |  0  |
+|   PTSI   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8.5 |  2  |     2    |  0  |
 |   BCPST  |        Biologie        |   8  |        4        |    3   |      1.5     |   0  |  2  |     2    |  8  |
 
 ## Les BTS et BUT
@@ -31,7 +31,7 @@ Vous pouvez retrouver la liste des formations en informatique [à cette adresse]
 
 Nous avons le même programme que les MPSI en mathématiques et physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Une description plus détaillée du cours d'informatique est disponible sur [cette page](../informatique).
+Une description plus détaillée du cours d'informatique est disponible sur [cette page](/informatique).
 
  Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
  Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
@@ -43,7 +43,7 @@ En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre 
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
-<img src="../images/deuxieme_annee.png"
+<img src="/images/deuxieme_annee.png"
      alt="Spécialités en deuxième année">
 
 Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
