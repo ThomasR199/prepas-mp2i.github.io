@@ -45,8 +45,8 @@ Voici un récapitulatif des différentes filières en deuxième année:
 
 {{< figure src="/images/deuxieme_annee.png" title="Spécialités en deuxième année" >}}
 
-Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
-Le passage en PSI est techniquement possible mais n'a pas été constaté.
+Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP ou en PSI si la manière dont est abordé l'informatique ne vous convient pas.
+
 
 ## La MP2I en quelques chiffres
 
@@ -78,10 +78,11 @@ Lycées avec les plus hauts taux d'admission :
 
 Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum mais voici une petite idée des places aux concours 2023 :
 
-- L'X : 30 places
-- Les ENS : 30 places
-- Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), une dizaine pour SUPAERO)
-- CCINP : au moins 200 places (dont 40 pour L'Ensimag)
+- L'X : [30 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
+- Les ENS : [30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
+- Concours Mines-ponts : [minimum 75 places](https://www.concoursminesponts.fr/page-8/) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), une dizaine pour SUPAERO)
+- Concours Centrale : [Minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
+- CCINP : au moins 200 places ([dont 40 pour L'Ensimag](https://ensimag.grenoble-inp.fr/fr/mpi))
 
 ## Les prépas MP2I en France
 
