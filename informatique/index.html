@@ -24,7 +24,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/prepas-mp2i.github.io\/informatique\/"
-        },"genre": "posts","wordcount":  500 ,
+        },"genre": "posts","wordcount":  481 ,
         "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2021-12-21T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": " Étudiants en MP2I"},"author": {
@@ -103,7 +103,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Les cours d&#39;informatique en MP2I</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i> Étudiants en MP2I</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;500 mots&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;481 mots&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -126,7 +126,6 @@
 </nav></div>
             </div><div class="content" id="content"><p>Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.</p>
 <p>Vous vous demandez surement en quoi consiste le cours d&rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !</p>
-<p>Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.</p>
 <h2 id="répartition-horaire">Répartition horaire</h2>
 <ul>
 <li>Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de <em>TP</em> et 1h de <em>TD</em></li>
@@ -136,12 +135,12 @@
 <p><em>Cours</em> : cours théorique en classe entière, comme en maths.</p>
 </blockquote>
 <blockquote>
-<p><em>TD</em> : exercices en demi classe, où l&rsquo;objectif est de pratiquer pour maitriser les concepts et progresser</p>
+<p><em>TD</em> : exercices en demi groupe, où l&rsquo;objectif est de pratiquer pour maitriser les concepts et progresser</p>
 </blockquote>
 <blockquote>
 <p><em>TP</em> : travail sur machine pour implémenter ce que vous avez vu en cours: c&rsquo;est là où on code !</p>
 </blockquote>
-<p>Remarquez que ce nombre d&rsquo;heures peut varier: ce n&rsquo;est pas rare qu&rsquo;un prof d&rsquo;informatique rajoute des heures de TP pour vous faire plus pratiquer au début d&rsquo;année par exemple !</p>
+<p>Remarquez que ce nombre d&rsquo;heures peut varier: ce n&rsquo;est pas rare qu&rsquo;un prof d&rsquo;informatique rajoute des heures de TP pour vous faire plus pratiquer en début d&rsquo;année par exemple !</p>
 <h2 id="la-théorie">La théorie</h2>
 <p>La première chose à comprendre est que ce cours d&rsquo;informatique est principalement <strong>théorique</strong>.</p>
 <p>La plupart des notions abordées font d&rsquo;ailleurs plus précisément partie de l'<em>algorithmique</em>, c&rsquo;est à dire l&rsquo;étude des algorithmes.</p>
@@ -159,22 +158,23 @@
 </ul>
 <h2 id="la-pratique">La pratique</h2>
 <p>Pendant les TP, la programmation se fait en C et en Ocaml.</p>
-<p>On utilise quelquefois Python lors de TP de physique, mais c&rsquo;est d&rsquo;avantage une compétence de traitement de données que des algorithmes complexes.</p>
+<p>On utilise quelquefois Python lors de TP de physique, mais c&rsquo;est davantage une compétence de traitement de données que des algorithmes complexes.</p>
 <p>Le but principal des TP est de faire fonctionner un algorithme étudié en cours (avant ou après) sur un ordinateur, et de créer de nouveaux algorithmes pour des tâches connexes.</p>
 <p>Voici un exemple classique de tâche pour lequel on va construire un algorithme:</p>
-<p>Calculer la <a href="https://fr.wikipedia.org/wiki/Suite_de_Fibonacci" target="_blank" rel="noopener noreffer">suite de Fibonacci</a></p>
+<p>Calculer les termes de la <a href="https://fr.wikipedia.org/wiki/Suite_de_Fibonacci" target="_blank" rel="noopener noreffer">suite de Fibonacci</a></p>
 <h3 id="première-approche-en-python">Première approche en Python</h3>
-<p>Si vous aimez l&rsquo;informatique, vous êtes probablement à l&rsquo;aise avec le code suivant:</p>
+<p>Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la suite de Fibonacci.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">fibo</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">n</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
         <span class="k">return</span> <span class="n">n</span>
     <span class="k">return</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">2</span><span class="p">)</span>
-</code></pre></div><p>Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait &ldquo;exploser sa pile d&rsquo;appel&rdquo;</p>
+</code></pre></div><p>Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait &ldquo;exploser sa pile d&rsquo;appel&rdquo;.</p>
 <h3 id="une-meilleure-approche-en-ocaml">Une meilleure approche en OCaml</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">)</span> <span class="o">=</span> <span class="k">match</span> <span class="n">n</span> <span class="k">with</span>
   <span class="o">|</span> <span class="n">0</span> <span class="o">-&gt;</span> <span class="o">(</span><span class="n">0</span><span class="o">,</span> <span class="n">1</span><span class="o">)</span>
   <span class="o">|</span> <span class="o">_</span> <span class="o">-&gt;</span> <span class="k">let</span> <span class="n">a</span><span class="o">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="k">in</span> <span class="o">(</span><span class="n">b</span><span class="o">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="o">)</span>
-</code></pre></div><p>Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !!!</p>
+</code></pre></div><p>Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !</p>
+<!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 <h3 id="un-code-incompréhensible-en-c">Un code incompréhensible en C</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="kt">long</span> <span class="kt">int</span> <span class="nf">fibo</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">){</span> 
     <span class="kt">int</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
@@ -187,6 +187,7 @@
     <span class="k">return</span> <span class="n">a</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div><p>Comme quoi on peut s&rsquo;amuser en MP2I, même avec une tâche aussi simple !</p>
+<!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 <h2 id="liens-annexes">Liens annexes</h2>
 <p>Vous pouvez retrouver le programme complet d&rsquo;informatique à <a href="https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf" target="_blank" rel="noopener noreffer">cette adresse</a>.</p>
 </div><div class="post-footer" id="post-footer">
