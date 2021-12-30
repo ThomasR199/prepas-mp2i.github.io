@@ -24,7 +24,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/prepas-mp2i.github.io\/informatique\/"
-        },"genre": "posts","wordcount":  481 ,
+        },"genre": "posts","wordcount":  489 ,
         "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2021-12-21T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": " Étudiants en MP2I"},"author": {
@@ -103,7 +103,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Les cours d&#39;informatique en MP2I</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i> Étudiants en MP2I</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;481 mots&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;489 mots&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -167,12 +167,13 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">fibo</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">n</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
         <span class="k">return</span> <span class="n">n</span>
-    <span class="k">return</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">2</span><span class="p">)</span>
-</code></pre></div><p>Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait &ldquo;exploser sa pile d&rsquo;appel&rdquo;.</p>
+    <span class="k">return</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">2</span><span class="p">)</span>
+</code></pre></div><p>Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait &ldquo;exploser la pile d&rsquo;appel&rdquo;.</p>
 <h3 id="une-meilleure-approche-en-ocaml">Une meilleure approche en OCaml</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">)</span> <span class="o">=</span> <span class="k">match</span> <span class="n">n</span> <span class="k">with</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">)</span> <span class="o">=</span>
+  <span class="k">match</span> <span class="n">n</span> <span class="k">with</span>
   <span class="o">|</span> <span class="n">0</span> <span class="o">-&gt;</span> <span class="o">(</span><span class="n">0</span><span class="o">,</span> <span class="n">1</span><span class="o">)</span>
-  <span class="o">|</span> <span class="o">_</span> <span class="o">-&gt;</span> <span class="k">let</span> <span class="n">a</span><span class="o">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="k">in</span> <span class="o">(</span><span class="n">b</span><span class="o">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="o">)</span>
+  <span class="o">|</span> <span class="o">_</span> <span class="o">-&gt;</span> <span class="k">let</span> <span class="n">a</span><span class="o">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span> <span class="o">-</span> <span class="n">1</span><span class="o">)</span> <span class="k">in</span> <span class="o">(</span><span class="n">b</span><span class="o">,</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="o">)</span>
 </code></pre></div><p>Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !</p>
 <!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 <h3 id="un-code-incompréhensible-en-c">Un code incompréhensible en C</h3>
