@@ -5,7 +5,7 @@ Nous sommes des actuellement des élèves de MP2I des quatre coins de la France.
 
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
-Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/rXURBCKe)
+Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/9p49Z5ZNtH)
 Vous pouvez aussi contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [mp2i@protonmail.com](mailto:email@mp2i@protonmail.com).
 
 Voici une liste de représentants pour chacun des établissements proposant la formation, n'hésitez pas si vous avez des questions plus pointues !
@@ -17,11 +17,11 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 - Claude Fauriel (Saint-Etienne - 42) [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
 - Clemenceau (Nantes - 44) [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
 - Colbert (Tourcoing - 59) [indisponible](mailto:)
-- Descartes (Tours - 37) [louis-max.harter@protonmail.com](mailto:louis-max.harter@protonmail.com) [adrien.jayat@protonmail.com](mailto:adrien.jayat@protonmail.com)
+- Descartes (Tours - 37) [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com) [adrien.jayat@protonmail.com](mailto:adrien.jayat@protonmail.com)
 - Faidherbe (Lille - 59) [nathan.coquerel@gmail.com](mailto:nathan.coquerel@gmail.com)
-- Fénelon Sainte-Marie (Paris 8e Arrondissement - 75) [indisponible](mailto:)
+- Fénelon Sainte-Marie (Paris 8e Arrondissement - 75) [gaucheron.laurent@protonmail.com](mailto:gaucheron.laurent@protonmail.com)
 - Franklin Roosevelt (Reims - 51) [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com)
-- Gay-Lussac (Limoges - 87) [indisponible](mailto:)
+- Gay-Lussac (Limoges - 87) [contact@mp2igaylussac.fr](mailto:contact@mp2igaylussac.fr)
 - Henri Wallon (Valenciennes - 59) [indisponible](mailto:)
 - Hoche (Versailles - 78) [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)
 - International de Valbonne (Valbonne - 06) [adrien.no@protonmail.com](mailto:adrien.no@protonmail.com)
@@ -29,11 +29,11 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 - Kléber (Strasbourg - 67) [guillaume.steinmetz@protonmail.com](mailto:guillaume.steinmetz@protonmail.com)
 - Le Parc (Lyon 6e Arrondissement - 69) [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
 - Louis Le Grand (Paris 5e Arrondissement - 75) [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com)
-- Louis Thuillier (Amiens - 80) [indisponible](mailto:)
+- Louis Thuillier (Amiens - 80) [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com)
 - Montaigne (Bordeaux - 33) [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
 - Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
 - Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
 - Saint-Louis (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
 - Thiers (Marseille 1er Arrondissement - 13) [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
-- Victor Hugo (Besançon - 25) [indisponible](mailto:)
+- Victor Hugo (Besançon - 25) [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
 
