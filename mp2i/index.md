@@ -7,9 +7,9 @@ Voici un petit descriptif des différentes filières permettant de travailler da
 
 - [Le BTS](https://diplomeo.com/bts) est une formation de 2 ans proposée par des lycées.  Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation.
 - [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
-- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation théorique permet de poursuivre ses études avec un Master pour un total de 5 ans.
-- Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
-- [Les prépas](https://diplomeo.com/prepa) se font en 2 ans et permettent de rejoindre les écoles d'ingénieurs et les licences les plus prestigieuses.
+- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation qui mêle théorie et pratique permet de poursuivre (ou non) ses études avec un Master pour un total de 5 ans voir un doctorat (bac+8). Les effectifs sont plus importants donc il y a moins d'accompagnement auprès des élèves et cela demande plus d'autonomie.
+- [Les écoles d'ingénieurs avec prépas intégrées] proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
+- [Les prépas](https://diplomeo.com/prepa) se font en 2 ans et permettent de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses.
 
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
 
@@ -39,13 +39,16 @@ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas fa
 ## La spécialité en deuxième année
 
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En MP2I nous avons le choix entre Informatique pour aller en MPI, et S.I. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI. 
+En MP2I nous avons le choix entre Informatique pour aller en MPI, et S.I. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI.
 Le choix de l'option info se doit d'être largement majoritaire, en effet, quasi tous les élèves de MP2I se destinent à une MPI. Il reste possible de passer en MP ou en PSI en prenant l'option S.I. si la manière dont est abordé l'informatique ne vous convient pas.
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
 {{< figure src="/images/deuxieme_annee.svg" title="Spécialités en deuxième année" >}}
 
+## La double inscription à l'université
+
+Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : maths, physique et info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous permette de convertir vos années en prépa en années de licence. Donc vous pourrez après une première année de prépa aller en L2 si la prépa ne vous convient pas.
 
 ## La MP2I en quelques chiffres
 
@@ -88,7 +91,8 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 {{< iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr"
     height=400px >}}
 
-##### Légende
+### Légende
+
 - Rouge : CPGE MP2I ouverte à la rentrée 2021
 - Vert :  CPGE MP2I ouverte à la rentrée 2022
 - Orange : CPGE MP2I privée ouverte à la rentrée 2021
