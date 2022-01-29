@@ -24,8 +24,8 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/prepas-mp2i.github.io\/informatique\/"
-        },"genre": "posts","wordcount":  815 ,
-        "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2022-01-29T16:56:17+01:00","publisher": {
+        },"genre": "posts","wordcount":  810 ,
+        "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2022-01-29T18:16:42+01:00","publisher": {
             "@type": "Organization",
             "name": " Étudiants en MP2I"},"author": {
                 "@type": "Person",
@@ -103,7 +103,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Les cours d&#39;informatique en MP2I</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i> Étudiants en MP2I</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;815 mots&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;810 mots&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -119,7 +119,7 @@
         <li><a href="#en-python">En Python</a></li>
         <li><a href="#en-ocaml">En OCaml</a></li>
         <li><a href="#une-optimisation">Une optimisation</a></li>
-        <li><a href="#un-code-incompréhensible-en-c-blague">Un code incompréhensible en C (blague)</a></li>
+        <li><a href="#un-code-incompréhensible-en-c-basé-sur-un-xor-swaphttpsenwikipediaorgwikixor_swap_algorithm">Un code incompréhensible en C (basé sur un <a href="https://en.wikipedia.org/wiki/XOR_swap_algorithm">XOR swap</a>)</a></li>
       </ul>
     </li>
     <li><a href="#liens-annexes">Liens annexes</a></li>
@@ -149,7 +149,7 @@
 <ul>
 <li>systèmes formels et logique</li>
 <li>structures de données</li>
-<li>analyse d&rsquo;algorithmes</li>
+<li>analyse et conception d&rsquo;algorithmes</li>
 <li>bases de données</li>
 <li>gestion des ressources</li>
 </ul>
@@ -173,14 +173,14 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span> <span class="n">n</span> <span class="o">=</span> 
     <span class="k">if</span> <span class="n">n</span> <span class="o">=</span> <span class="n">0</span> <span class="k">then</span> <span class="n">0</span>
     <span class="k">else</span> <span class="k">if</span> <span class="n">n</span> <span class="o">=</span> <span class="n">1</span> <span class="k">then</span> <span class="n">1</span>
-    <span class="k">else</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Les parenthèses ne sont pas systématiques en OCaml, on peut ne les utiliser que lorsque notre expression n&#39;est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)</span>
+    <span class="k">else</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n&#39;est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)</span>
 </code></pre></div><p>On pourrait rendre cela plus élégant en utilisant le <a href="https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching" target="_blank" rel="noopener noreffer">pattern matching</a> et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l&rsquo;expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n&rsquo;est que du sucre syntaxique).</p>
 <p>Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l&rsquo;on veut. On dit qu&rsquo;OCaml est <a href="https://fr.wikipedia.org/wiki/Typage_fort" target="_blank" rel="noopener noreffer">fortement typé</a>.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">:</span><span class="kt">int</span><span class="o">)</span> <span class="o">:</span> <span class="kt">int</span> <span class="o">=</span> <span class="c">(* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)</span>
     <span class="k">match</span> <span class="n">n</span> <span class="k">with</span> <span class="c">(* On filtre la variable n. Si la valeur ne correspond pas au filtre, on passe au filtre suivant. *)</span>
     <span class="o">|</span> <span class="n">0</span> <span class="o">-&gt;</span> <span class="n">0</span> <span class="c">(* première valeur de la suite de fibonnaci *)</span>
     <span class="o">|</span> <span class="n">1</span> <span class="o">-&gt;</span> <span class="n">1</span> <span class="c">(* deuxième valeur *)</span>
-    <span class="o">|</span> <span class="n">n</span> <span class="o">-&gt;</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Ce filtre prend toute valeur de n, il permet d&#39;effectuer un filtrage exhaustif. (En conséquent, aucun autre filtre suivant ne sera pris en compte, cela tombe bien que ce soit le dernier !) *)</span>
+    <span class="o">|</span> <span class="n">n</span> <span class="o">-&gt;</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Ce filtre prend toute valeur de n, il permet d&#39;effectuer un filtrage exhaustif. En conséquent, aucun autre filtre suivant ne sera pris en compte. *)</span>
 </code></pre></div><p>Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !</p>
 <!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 <h3 id="une-optimisation">Une optimisation</h3>
@@ -190,7 +190,7 @@
   <span class="k">match</span> <span class="n">n</span> <span class="k">with</span>
   <span class="o">|</span> <span class="n">0</span> <span class="o">-&gt;</span> <span class="o">(</span><span class="n">0</span><span class="o">,</span> <span class="n">1</span><span class="o">)</span>
   <span class="o">|</span> <span class="o">_</span> <span class="o">-&gt;</span> <span class="k">let</span> <span class="n">a</span><span class="o">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span> <span class="o">-</span> <span class="n">1</span><span class="o">)</span> <span class="k">in</span> <span class="o">(</span><span class="n">b</span><span class="o">,</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="o">)</span> <span class="c">(* renvoie le couple (fibo n, fibo (n+1))*)</span>
-</code></pre></div><h3 id="un-code-incompréhensible-en-c-blague">Un code incompréhensible en C (blague)</h3>
+</code></pre></div><h3 id="un-code-incompréhensible-en-c-basé-sur-un-xor-swaphttpsenwikipediaorgwikixor_swap_algorithm">Un code incompréhensible en C (basé sur un <a href="https://en.wikipedia.org/wiki/XOR_swap_algorithm" target="_blank" rel="noopener noreffer">XOR swap</a>)</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="kt">long</span> <span class="kt">int</span> <span class="nf">fibo</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">){</span> 
     <span class="kt">int</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
     <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
@@ -209,8 +209,8 @@
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Mis à jour le 29/01/2022&nbsp;<a class="git-hash" href="https://github.com/prepas-mp2i/prepas-mp2i.github.io//commit/b049a8ff0c39fef5a81e5e4135ca8b800998dd73" target="_blank" title="commit by Adrien Jayat(adrien.jayat@gmail.com) b049a8ff0c39fef5a81e5e4135ca8b800998dd73: Enable Gitinfo and fix markdown syntax">
-                                    <i class="fas fa-hashtag fa-fw"></i>b049a8f</a></span>
+                <span>Mis à jour le 29/01/2022&nbsp;<a class="git-hash" href="https://github.com/prepas-mp2i/prepas-mp2i.github.io//commit/d8370f4c28d76388025b0c0ecedba01b1bbae362" target="_blank" title="commit by Adrien Jayat(adrien.jayat@gmail.com) d8370f4c28d76388025b0c0ecedba01b1bbae362: Rewrite some information about MP2I and other post-bac studies">
+                                    <i class="fas fa-hashtag fa-fw"></i>d8370f4</a></span>
             </div>
             <div class="post-info-license"></div>
         </div>
