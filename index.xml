@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>PREPAS MP2I</title>
+        <title>Prépas MP2I</title>
         <link>https://prepas-mp2i.github.io/</link>
         <description>Site des classes préparatoires MP2I</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
