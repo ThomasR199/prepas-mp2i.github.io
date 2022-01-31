@@ -24,8 +24,8 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/prepas-mp2i.github.io\/informatique\/"
-        },"genre": "posts","wordcount":  817 ,
-        "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2022-01-31T04:18:02+01:00","publisher": {
+        },"genre": "posts","wordcount":  819 ,
+        "url": "https:\/\/prepas-mp2i.github.io\/informatique\/","datePublished": "2021-12-21T00:00:00+00:00","dateModified": "2022-01-31T23:07:42+01:00","publisher": {
             "@type": "Organization",
             "name": " Étudiants en MP2I"},"author": {
                 "@type": "Person",
@@ -103,7 +103,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Les cours d&#39;informatique en MP2I</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i> Étudiants en MP2I</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;817 mots&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="21/12/2021">21/12/2021</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;819 mots&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -176,7 +176,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span> <span class="n">n</span> <span class="o">=</span> 
     <span class="k">if</span> <span class="n">n</span> <span class="o">=</span> <span class="n">0</span> <span class="k">then</span> <span class="n">0</span>
     <span class="k">else</span> <span class="k">if</span> <span class="n">n</span> <span class="o">=</span> <span class="n">1</span> <span class="k">then</span> <span class="n">1</span>
-    <span class="k">else</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span><span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n&#39;est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)</span>
+    <span class="k">else</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">-</span><span class="n">2</span><span class="o">)</span> <span class="c">(* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n&#39;est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)</span>
 </code></pre></div><p>On pourrait rendre cela plus élégant en utilisant le <a href="https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching" target="_blank" rel="noopener noreffer">pattern matching</a> et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l&rsquo;expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n&rsquo;est que du sucre syntaxique).</p>
 <p>Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l&rsquo;on veut. On dit qu&rsquo;OCaml est <a href="https://fr.wikipedia.org/wiki/Typage_fort" target="_blank" rel="noopener noreffer">fortement typé</a>.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ocaml" data-lang="ocaml"><span class="k">let</span> <span class="k">rec</span> <span class="n">fibo</span> <span class="o">(</span><span class="n">n</span><span class="o">:</span><span class="kt">int</span><span class="o">)</span> <span class="o">:</span> <span class="kt">int</span> <span class="o">=</span> <span class="c">(* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)</span>
@@ -212,15 +212,15 @@ Comme quoi on peut s&rsquo;amuser en MP2I, même avec une tâche aussi simple !<
             <i class="icon fas fa-lightbulb fa-fw"></i>Liens annexes<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>
         <div class="details-content">
-            <div class="admonition-content">Vous pouvez retrouver le programme complet d&rsquo;informatique à <a href="https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf" target="_blank" rel="noopener noreffer">cette adresse</a>.</div>
+            <div class="admonition-content">Vous pouvez télécharger le programme complet d&rsquo;informatique <a href="/documents/mpi_info.pdf" rel="">en cliquant ici</a>.</div>
         </div>
     </div>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Mis à jour le 31/01/2022&nbsp;<a class="git-hash" href="https://github.com/prepas-mp2i/prepas-mp2i.github.io//commit/9dd789bf634c4e3a80c2304c311db5e918984555" target="_blank" title="commit by Adrien Jayat(adrien.jayat@gmail.com) 9dd789bf634c4e3a80c2304c311db5e918984555: Update FAQ">
-                                    <i class="fas fa-hashtag fa-fw"></i>9dd789b</a></span>
+                <span>Mis à jour le 31/01/2022&nbsp;<a class="git-hash" href="https://github.com/prepas-mp2i/prepas-mp2i.github.io//commit/97843b07cd0c3a3a2e42ba97a5776be89e4ef1d9" target="_blank" title="commit by Adrien Jayat(adrien.jayat@gmail.com) 97843b07cd0c3a3a2e42ba97a5776be89e4ef1d9: Change OCaml code and upload mpi_info.pdf">
+                                    <i class="fas fa-hashtag fa-fw"></i>97843b0</a></span>
             </div>
             <div class="post-info-license"></div>
         </div>
