@@ -1,65 +1,65 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tous Posts - Prépas MP2I</title>
-        <link>https://prepas-mp2i.github.io/posts/</link>
+        <link>https://prepas-mp2i.fr/posts/</link>
         <description>Tous Posts | Prépas MP2I</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
-            <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><lastBuildDate>Sat, 29 Jan 2022 19:00:59 &#43;0100</lastBuildDate><atom:link href="https://prepas-mp2i.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><lastBuildDate>Sat, 29 Jan 2022 19:00:59 &#43;0100</lastBuildDate><atom:link href="https://prepas-mp2i.fr/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Foire Aux Questions</title>
-    <link>https://prepas-mp2i.github.io/faq/</link>
+    <link>https://prepas-mp2i.fr/faq/</link>
     <pubDate>Sat, 29 Jan 2022 19:00:59 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/faq/</guid>
+    <guid>https://prepas-mp2i.fr/faq/</guid>
     <description><![CDATA[Vous avez une question à poser ? Si jamais elle n&rsquo;est pas déjà référencée vous pouvez nous contacter via la page de contacts.
 Quel est ton rythme de sommeil ?  Pour réussir, il faut être en bonne santé. Et pour être en bonne santé, il faut dormir. Ainsi, il faut toujours mettre la priorité sur son sommeil, et cela, avant même le travail à faire chez soi ! Travailler tard pour dormir en cours est contre productif.]]></description>
 </item><item>
     <title>Les cours d&#39;informatique en MP2I</title>
-    <link>https://prepas-mp2i.github.io/informatique/</link>
+    <link>https://prepas-mp2i.fr/informatique/</link>
     <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/informatique/</guid>
+    <guid>https://prepas-mp2i.fr/informatique/</guid>
     <description><![CDATA[Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
 Vous vous demandez surement en quoi consiste le cours d&rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !
 Répartition horaire  Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)  Répartition horaire  Cours : cours théorique en classe entière, comme en maths.]]></description>
 </item><item>
     <title>Les ressources utiles</title>
-    <link>https://prepas-mp2i.github.io/ressources/</link>
+    <link>https://prepas-mp2i.fr/ressources/</link>
     <pubDate>Mon, 20 Dec 2021 00:09:11 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/ressources/</guid>
+    <guid>https://prepas-mp2i.fr/ressources/</guid>
     <description><![CDATA[Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d&rsquo;une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.
 S&rsquo;intéresser La curiosité, la capacité d&rsquo;émerveillement est une grande motivation à l&rsquo;entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes.]]></description>
 </item><item>
     <title>Participer au projet</title>
-    <link>https://prepas-mp2i.github.io/participer/</link>
+    <link>https://prepas-mp2i.fr/participer/</link>
     <pubDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/participer/</guid>
+    <guid>https://prepas-mp2i.fr/participer/</guid>
     <description><![CDATA[Ce site web à pour but de mettre en avant la fillière MP2I.
 Nous voulons y rassembler les premiers témoignages ainsi que des conseils pour nous rejoindre !
 Vous pouvez commencer à compléter les fichiers dans le dossier contenu, et n&rsquo;hésitez pas à contacter mp2i@protonmail.com si vous voulez rejoindre le projet !]]></description>
 </item><item>
     <title>Qui sommes-nous?</title>
-    <link>https://prepas-mp2i.github.io/contact/</link>
+    <link>https://prepas-mp2i.fr/contact/</link>
     <pubDate>Mon, 20 Dec 2021 00:07:53 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/contact/</guid>
+    <guid>https://prepas-mp2i.fr/contact/</guid>
     <description><![CDATA[Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la France. Notre objectif en créant ce site est d&rsquo;aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&rsquo;attendez plus, venez découvrir l&rsquo;entièreté de ce site !]]></description>
 </item><item>
     <title>Les filières pour faire de l&#39;informatique</title>
-    <link>https://prepas-mp2i.github.io/mp2i/</link>
+    <link>https://prepas-mp2i.fr/mp2i/</link>
     <pubDate>Mon, 20 Dec 2021 00:07:18 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/mp2i/</guid>
+    <guid>https://prepas-mp2i.fr/mp2i/</guid>
     <description><![CDATA[Étudier l&rsquo;informatique en post-bac Voici un petit descriptif des différentes filières permettant de travailler dans l&rsquo;informatique :
  Le BTS est une formation de 2 ans proposée par des lycées. Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation. Le BUT se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d&rsquo;ingénieur, de partir en licence ou de rejoindre le milieu professionnel.]]></description>
 </item><item>
     <title>Les spécialités au lycée</title>
-    <link>https://prepas-mp2i.github.io/admission/</link>
+    <link>https://prepas-mp2i.fr/admission/</link>
     <pubDate>Mon, 20 Dec 2021 00:05:32 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.github.io/admission/</guid>
+    <guid>https://prepas-mp2i.fr/admission/</guid>
     <description><![CDATA[La spé maths et l&rsquo;option maths expertes En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier.]]></description>
 </item></channel>
 </rss>

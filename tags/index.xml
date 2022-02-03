@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Balise - Prépas MP2I</title>
-        <link>https://prepas-mp2i.github.io/tags/</link>
+        <link>https://prepas-mp2i.fr/tags/</link>
         <description>Tags - Balise - Prépas MP2I</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
-            <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><atom:link href="https://prepas-mp2i.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><atom:link href="https://prepas-mp2i.fr/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
