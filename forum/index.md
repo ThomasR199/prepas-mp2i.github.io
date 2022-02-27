@@ -1,8 +1,7 @@
 # Forum des étudiants en MP2I
 
 
-[![/documents/affiche_forum_mp2i.pdf](/images/Affiche Forum Mp2i.pdf)][Affiche]
-Vous pouvez télécharger le pdf en cliquant sur l'image ou [sur ce lien](https://raw.githubusercontent.com/prepas-mp2i/prepas-mp2i.github.io/gohugo/static/images/Affiche%20Forum%20MP2I.pdf)
+[![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
 
 ## Pourquoi ce forum ?
 
@@ -11,6 +10,10 @@ Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs él�
 Car vous vous posez très certainement de nombreuses questions au sujet de la prépa MP2I, et en tant qu’inaugurateurs de cette filière, on se propose de vous y répondre durant ce forum virtuel. Oui vous avez bien lu, des élèves de CPGE (dans leur grande générosité 😉) se mettent à votre disposition afin de vous aider à vous orienter grâce à leur expérience vécue en ce début d’année, et comme ça vous pourrez directement comparer les avis de différentes personnes venant de différents établissements !
 
 Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
+
+{{< admonition tip "Astuce" true >}}
+Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
+{{< /admonition >}}
 
 ## Organisation
 
