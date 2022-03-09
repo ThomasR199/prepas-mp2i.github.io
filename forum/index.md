@@ -2,7 +2,9 @@
 
 
 [![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
-
+{{< admonition tip "Astuce" true >}}
+Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
+{{< /admonition >}}
 ## Pourquoi ce forum ?
 
 Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d'avoir un aperçu plus complet de cette nouvelle filière !
@@ -11,9 +13,7 @@ Car vous vous posez très certainement de nombreuses questions au sujet de la pr
 
 Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
 
-{{< admonition tip "Astuce" true >}}
-Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
-{{< /admonition >}}
+
 
 ## Organisation
 
@@ -31,15 +31,31 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 {{< figure src="/images/planning.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
 
+Vous trouverez ci dessous les liens pour rejoindre le stand de votre choix :
+
+**Stand 1**) [https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71](https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71)
+
+**Stand 2**) [https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5](https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5)
+
+**Stand 3**) [https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e](https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e)
+
+**Stand 4**) [https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad](https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad)
+
+**Stand 5**) [https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b](https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b)
+
+**Stand 6**) [https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa](https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa)
+
+**Stand 7**) [https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463](https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463)
+
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
 ## Intervenants
 
 Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
-|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|------------:|------------:|------------:|
-| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/Mathys Montaigne.png" title="Mathys" caption="Montaigne">}} | {{< figure src="/images/intervenants/Kei Montaigne.png" title="Kei" caption="Montaigne">}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe">}} |
+| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/Mathys Montaigne.png" title="Mathys" caption="Montaigne">}} | {{< figure src="/images/intervenants/Kei Montaigne.png" title="Kei" caption="Montaigne">}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe">}} | {{< figure src="/images/intervenants/Justin Janson de Sailly.png" title="Clément" caption="Faidherbe">}} | {{< figure src="/images/intervenants/Romain Roosevelt.png" title="Romain" caption="Roosevelt">}} | {{< figure src="/images/intervenants/Vivien Aux Lazaristes.png" title="Vivien" caption="Aux Lazaristes">}} | {{< figure src="/images/intervenants/Damien Kleber.png" title="Damien" caption="Kleber">}} |
 
 [Affiche]: /documents/affiche_forum_mp2i.pdf
 
