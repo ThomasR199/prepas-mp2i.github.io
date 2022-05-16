@@ -57,10 +57,7 @@ Contact  Besoin de renseignements précis? De nous contacter? Envoyez-nous un ma
     <description><![CDATA[Voici une liste non exhaustive de projets d&rsquo;étudiants en MP2I, n&rsquo;hésitez pas à les soutenir !
 2021-2022 Prépas MP2I   https://github.com/prepas-mp2i/prepas-mp2i.github.io : Le code source de ce site web.
   https://github.com/prepas-mp2i/mp2i-discord-bot : Le bot du serveur Discord Prépas MP2I
-  Loatchi  https://github.com/Loatchi/kt-jda-annot  Sh3xe   https://github.com/Sh3xe/minecraft_cpp
-  https://github.com/Sh3xe/simu_corp_souple
-  D&rsquo;autres projets se rajouteront au fur et à mesure!
-Note aux MP2I  Si vous êtes en MP2I et que vous souhiatez soumettre un de vos projets, envoyez-nous un mail à contact@prepas-mp2i.]]></description>
+  Loatchi  https://github.com/Loatchi/kt-jda-annot : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l&rsquo;introspection (reflection) en Kotlin et Java.]]></description>
 </item><item>
     <title>Qui sommes-nous?</title>
     <link>https://prepas-mp2i.fr/contact/</link>
