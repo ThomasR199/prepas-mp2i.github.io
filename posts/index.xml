@@ -10,10 +10,9 @@
     <pubDate>Mon, 14 Feb 2022 16:45:31 &#43;0100</pubDate>
     <author>Auteur</author>
     <guid>https://prepas-mp2i.fr/forum/</guid>
-    <description><![CDATA[Forum terminé  C&rsquo;etait au total plus de 17 établissements présents et plus de 300 visiteurs pour ce premier forum virtuel des MP2I !
+    <description><![CDATA[Forum terminé C&rsquo;etait au total plus de 17 établissements présents et plus de 300 visiteurs pour ce premier forum virtuel des MP2I !
 Rendez-vous l&rsquo;année prochaine, les premiers retours d&rsquo;étudiants en MPI (deuxième année) seront là.
-    Astuce  Vous pouvez télécharger l&rsquo;affiche en version imprimable en cliquant sur l&rsquo;image.  
-Pourquoi ce forum ? Plus qu&rsquo;une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d&rsquo;avoir un aperçu plus complet de cette nouvelle filière !]]></description>
+Astuce Vous pouvez télécharger l&rsquo;affiche en version imprimable en cliquant sur l&rsquo;image. Pourquoi ce forum ? Plus qu&rsquo;une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d&rsquo;avoir un aperçu plus complet de cette nouvelle filière !]]></description>
 </item><item>
     <title>Foire Aux Questions</title>
     <link>https://prepas-mp2i.fr/faq/</link>
@@ -21,7 +20,7 @@ Pourquoi ce forum ? Plus qu&rsquo;une journée portes ouvertes, vous pourrez éc
     <author>Auteur</author>
     <guid>https://prepas-mp2i.fr/faq/</guid>
     <description><![CDATA[Vous avez une question à poser ? Si jamais elle n&rsquo;est pas déjà référencée vous pouvez nous contacter via la page de contact.
-Quel est ton rythme de sommeil ?  Pour réussir, il faut être en bonne santé. Et pour être en bonne santé, il faut dormir. Ainsi, il faut toujours mettre la priorité sur son sommeil, et cela, avant même le travail à faire chez soi ! Travailler tard pour dormir en cours est contre productif.]]></description>
+Quel est ton rythme de sommeil ? Pour réussir, il faut être en bonne santé. Et pour être en bonne santé, il faut dormir. Ainsi, il faut toujours mettre la priorité sur son sommeil, et cela, avant même le travail à faire chez soi ! Travailler tard pour dormir en cours est contre productif.]]></description>
 </item><item>
     <title>Les cours d&#39;informatique en MP2I</title>
     <link>https://prepas-mp2i.fr/informatique/</link>
@@ -30,7 +29,7 @@ Quel est ton rythme de sommeil ?  Pour réussir, il faut être en bonne santé. 
     <guid>https://prepas-mp2i.fr/informatique/</guid>
     <description><![CDATA[Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
 Vous vous demandez surement en quoi consiste le cours d&rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !
-Répartition horaire  Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)  Répartition horaire  Cours : cours théorique en classe entière, comme en maths.]]></description>
+Répartition horaire Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année) Répartition horaire Cours : cours théorique en classe entière, comme en maths.]]></description>
 </item><item>
     <title>Les ressources utiles</title>
     <link>https://prepas-mp2i.fr/ressources/</link>
@@ -47,7 +46,7 @@ S&rsquo;intéresser La curiosité, la capacité d&rsquo;émerveillement est une 
     <guid>https://prepas-mp2i.fr/participer/</guid>
     <description><![CDATA[Ce site web à pour but de mettre en avant la filière MP2I. Il rassemble des téoignages d&rsquo;étudiants et de précieuses informations pour permettre aux lycéens d&rsquo;avoir une vision concrète de la MP2I.
 Si vous souhaitez participer vous pouvez fork le projet sur Github. Ou rejoindre notre serveur Discord.
-Contact  Besoin de renseignements précis? De nous contacter? Envoyez-nous un mail: contact@prepas-mp2i.fr   ]]></description>
+Contact Besoin de renseignements précis? De nous contacter? Envoyez-nous un mail: contact@prepas-mp2i.fr ]]></description>
 </item><item>
     <title>Projets personnels d&#39;étudiants</title>
     <link>https://prepas-mp2i.fr/projets/</link>
@@ -55,9 +54,9 @@ Contact  Besoin de renseignements précis? De nous contacter? Envoyez-nous un ma
     <author>Auteur</author>
     <guid>https://prepas-mp2i.fr/projets/</guid>
     <description><![CDATA[Voici une liste non exhaustive de projets d&rsquo;étudiants en MP2I, n&rsquo;hésitez pas à les soutenir !
-2021-2022 Prépas MP2I   https://github.com/prepas-mp2i/prepas-mp2i.github.io : Le code source de ce site web.
-  https://github.com/prepas-mp2i/mp2i-discord-bot : Le bot du serveur Discord Prépas MP2I
-  Loatchi  https://github.com/Loatchi/kt-jda-annot : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l&rsquo;introspection (reflection) en Kotlin et Java.]]></description>
+2021-2022 Prépas MP2I https://github.com/prepas-mp2i/prepas-mp2i.github.io : Le code source de ce site web.
+https://github.com/prepas-mp2i/mp2i-discord-bot : Le bot du serveur Discord Prépas MP2I
+Loatchi https://github.com/Loatchi/kt-jda-annot : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l&rsquo;introspection (reflection) en Kotlin et Java. (Par exemple le fait de connaître un type générique meme après l&rsquo;erasure induite par la JVM.]]></description>
 </item><item>
     <title>Qui sommes-nous?</title>
     <link>https://prepas-mp2i.fr/contact/</link>
@@ -73,7 +72,7 @@ Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&rsquo
     <author>Auteur</author>
     <guid>https://prepas-mp2i.fr/mp2i/</guid>
     <description><![CDATA[Étudier l&rsquo;informatique en post-bac Voici un petit descriptif des différentes filières permettant de travailler dans l&rsquo;informatique :
- Le BTS est une formation de 2 ans proposée par des lycées. Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation. Le BUT se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d&rsquo;ingénieur, de partir en licence ou de rejoindre le milieu professionnel.]]></description>
+Le BTS est une formation de 2 ans proposée par des lycées. Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation. Le BUT se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d&rsquo;ingénieur, de partir en licence ou de rejoindre le milieu professionnel.]]></description>
 </item><item>
     <title>Les spécialités au lycée</title>
     <link>https://prepas-mp2i.fr/admission/</link>
