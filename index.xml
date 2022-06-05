@@ -3,7 +3,7 @@
         <title>Prépas MP2I</title>
         <link>https://prepas-mp2i.fr/</link>
         <description>Site des classes préparatoires MP2I</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
             <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><lastBuildDate>Mon, 14 Feb 2022 16:45:31 &#43;0100</lastBuildDate>
             <atom:link href="https://prepas-mp2i.fr/index.xml" rel="self" type="application/rss+xml" />
         <item>
@@ -46,7 +46,7 @@ S&rsquo;intéresser La curiosité, la capacité d&rsquo;émerveillement est une 
     <pubDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</pubDate>
     <author>Auteur</author>
     <guid>https://prepas-mp2i.fr/participer/</guid>
-    <description><![CDATA[Ce site web à pour but de mettre en avant la filière MP2I. Il rassemble des téoignages d&rsquo;étudiants et de précieuses informations pour permettre aux lycéens d&rsquo;avoir une vision concrète de la MP2I.
+    <description><![CDATA[Ce site web à pour but de mettre en avant la filière MP2I. Il rassemble des témoignages d&rsquo;étudiants et de précieuses informations pour permettre aux lycéens d&rsquo;avoir une vision concrète de la MP2I.
 Si vous souhaitez participer vous pouvez fork le projet sur Github. Ou rejoindre notre serveur Discord.
 Contact Besoin de renseignements précis? De nous contacter? Envoyez-nous un mail: contact@prepas-mp2i.fr ]]></description>
 </item><item>

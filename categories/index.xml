@@ -3,6 +3,6 @@
         <title>Categories - Catégorie - Prépas MP2I</title>
         <link>https://prepas-mp2i.fr/categories/</link>
         <description>Categories - Catégorie - Prépas MP2I</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>mp2i@protonmail.com ( Étudiants en MP2I)</managingEditor>
             <webMaster>mp2i@protonmail.com ( Étudiants en MP2I)</webMaster><atom:link href="https://prepas-mp2i.fr/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
