@@ -4,81 +4,24 @@
         <link>https://prepas-mp2i.fr/posts/</link>
         <description>Tous Posts | Prépas MP2I</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>contact@prepas-mp2i.fr ( Étudiants en MP2I)</managingEditor>
-            <webMaster>contact@prepas-mp2i.fr ( Étudiants en MP2I)</webMaster><lastBuildDate>Mon, 14 Feb 2022 16:45:31 &#43;0100</lastBuildDate><atom:link href="https://prepas-mp2i.fr/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Forum des étudiants en MP2I</title>
-    <link>https://prepas-mp2i.fr/forum/</link>
-    <pubDate>Mon, 14 Feb 2022 16:45:31 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/forum/</guid>
-    <description><![CDATA[Forum terminé C&rsquo;etait au total plus de 17 établissements présents et plus de 300 visiteurs pour ce premier forum virtuel des MP2I !
-Rendez-vous l&rsquo;année prochaine, les premiers retours d&rsquo;étudiants en MPI (deuxième année) seront là.
-Astuce Vous pouvez télécharger l&rsquo;affiche en version imprimable en cliquant sur l&rsquo;image. Pourquoi ce forum ? Plus qu&rsquo;une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d&rsquo;avoir un aperçu plus complet de cette nouvelle filière !]]></description>
-</item><item>
-    <title>Foire Aux Questions</title>
-    <link>https://prepas-mp2i.fr/faq/</link>
-    <pubDate>Sat, 29 Jan 2022 19:00:59 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/faq/</guid>
-    <description><![CDATA[Vous avez une question à poser ? Si jamais elle n&rsquo;est pas déjà référencée vous pouvez nous contacter via la page de contact.
-Les cours As-tu continué une LVB en prépa ? J&rsquo;ai choisi une LVB car d&rsquo;une part il y a des points bonus aux concours, et d&rsquo;autre part parce que dans toutes les grandes écoles la LVB est obligatoire, donc autant éviter de perdre tout le niveau obtenu en tant d&rsquo;années.]]></description>
-</item><item>
-    <title>Les cours d&#39;informatique en MP2I</title>
-    <link>https://prepas-mp2i.fr/informatique/</link>
-    <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/informatique/</guid>
-    <description><![CDATA[Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours. Vous vous demandez surement en quoi consiste le cours d&rsquo;informatique en MP2I, et bien cette page est là pour vous éclairer !
-Répartition horaire Au premier semestre, les cours d&rsquo;info sont composés de 2h de cours, 1h de TP et 1h de TD Si vous choisissez de continuer l&rsquo;informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année) Répartition horaire Cours : cours théorique en classe entière, comme en maths.]]></description>
-</item><item>
-    <title>Ressources pour apprendre et s&#39;exercer</title>
-    <link>https://prepas-mp2i.fr/ressources/</link>
-    <pubDate>Mon, 20 Dec 2021 00:09:11 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/ressources/</guid>
-    <description><![CDATA[Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d&rsquo;une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.
-Chaînes YouTube recommandées S&rsquo;intéresser, tel est le maître-mot. La curiosité, la capacité d&rsquo;émerveillement est une grande motivation à l&rsquo;entrée en prépa scientifique. Afin de découvrir intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes.]]></description>
-</item><item>
+            <webMaster>contact@prepas-mp2i.fr ( Étudiants en MP2I)</webMaster><lastBuildDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</lastBuildDate><atom:link href="https://prepas-mp2i.fr/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Participer au projet</title>
-    <link>https://prepas-mp2i.fr/participer/</link>
+    <link>https://prepas-mp2i.fr/posts/participer-au-projet/</link>
     <pubDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/participer/</guid>
+    <guid>https://prepas-mp2i.fr/posts/participer-au-projet/</guid>
     <description><![CDATA[Ce site web à pour but de mettre en avant la filière MP2I. Il rassemble des témoignages d&rsquo;étudiants et de précieuses informations pour permettre aux lycéens d&rsquo;avoir une vision concrète de la MP2I.
 Si vous souhaitez participer vous pouvez fork le projet sur Github. Ou rejoindre notre serveur Discord.
 Contact Besoin de renseignements précis? De nous contacter? Envoyez-nous un mail: contact@prepas-mp2i.fr ]]></description>
 </item><item>
     <title>Projets personnels d&#39;étudiants</title>
-    <link>https://prepas-mp2i.fr/projets/</link>
+    <link>https://prepas-mp2i.fr/posts/projets-personnels/</link>
     <pubDate>Mon, 20 Dec 2021 00:08:50 &#43;0100</pubDate>
     <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/projets/</guid>
+    <guid>https://prepas-mp2i.fr/posts/projets-personnels/</guid>
     <description><![CDATA[Voici une liste non exhaustive de projets d&rsquo;étudiants en MP2I, n&rsquo;hésitez pas à les soutenir !
-2021-2022 Prépas MP2I https://github.com/prepas-mp2i/prepas-mp2i.github.io : Le code source de ce site web.
-https://github.com/prepas-mp2i/mp2i-discord-bot : Le bot du serveur Discord Prépas MP2I
-Loatchi https://github.com/Loatchi/kt-jda-annot : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l&rsquo;introspection (reflection) en Kotlin et Java. (Par exemple le fait de connaître un type générique meme après l&rsquo;erasure induite par la JVM.]]></description>
-</item><item>
-    <title>Qui sommes-nous?</title>
-    <link>https://prepas-mp2i.fr/contact/</link>
-    <pubDate>Mon, 20 Dec 2021 00:07:53 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/contact/</guid>
-    <description><![CDATA[Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la France. Notre objectif en créant ce site est d&rsquo;aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
-Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&rsquo;attendez plus, venez découvrir l&rsquo;entièreté de ce site !]]></description>
-</item><item>
-    <title>La classe préparatoire MP2I</title>
-    <link>https://prepas-mp2i.fr/mp2i/</link>
-    <pubDate>Mon, 20 Dec 2021 00:07:18 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/mp2i/</guid>
-    <description><![CDATA[Les classes préparatoires aux grandes écoles (CPGE) Ici nous ne parlerons pas de la prépa intégrée en école d&rsquo;ingénieur, qui s&rsquo;effectue en 2 ans au sein d&rsquo;une école d&rsquo;ingénieur.
-La prépa classique (CPGE) est rattachée à un lycée, c&rsquo;est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d&rsquo;ingénieurs et les licences (L3) les plus prestigieuses, après un concours en fin de seconde année.]]></description>
-</item><item>
-    <title>Choix des spécialités au lycée et Parcoursup</title>
-    <link>https://prepas-mp2i.fr/admission/</link>
-    <pubDate>Mon, 20 Dec 2021 00:05:32 &#43;0100</pubDate>
-    <author>Auteur</author>
-    <guid>https://prepas-mp2i.fr/admission/</guid>
-    <description><![CDATA[Les Mathématiques et l&rsquo;option Maths Expertes En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité Mathématiques en Première puis en Terminale.
-En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier.]]></description>
+2021-2022 Prépas MP2I prepas-mp2i.github.io : Le code source de ce site web.
+mp2i-discord-bot : Le bot du serveur Discord Prépas MP2I
+Loatchi kt-jda-annot : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l&rsquo;introspection (reflection) en Kotlin et Java. (Par exemple le fait de connaître un type générique meme après l&rsquo;erasure induite par la JVM.]]></description>
 </item></channel>
 </rss>

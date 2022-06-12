@@ -5,7 +5,7 @@ Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la
 
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
-### Nous contacter
+## Nous contacter
 
 Vous avez tout vu mais il vous reste encore des questions ?
 Vous avez une proposition pour améliorer ce site ? Vous avez trouvé une erreur ?
@@ -48,7 +48,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Thiers | Marseille 01 | [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
 
-### Discord
+## Discord
 
 **Prépas MP2I** c'est aussi une grande communauté sur Discord !
 Vous souhaitez discuter avec des étudiants en MP2I ?

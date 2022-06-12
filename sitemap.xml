@@ -2,17 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://prepas-mp2i.fr/forum/</loc><lastmod>2022-06-05T23:42:06&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/posts/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/faq/</loc><lastmod>2022-06-06T01:20:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/informatique/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/ressources/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/participer/</loc><lastmod>2022-06-05T23:42:06&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/projets/</loc><lastmod>2022-05-16T20:32:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://prepas-mp2i.fr/contact/</loc><lastmod>2022-06-06T01:20:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/mp2i/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://prepas-mp2i.fr/admission/</loc><lastmod>2022-06-11T19:18:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/forum/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/pages/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/faq/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/ressources/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/posts/participer-au-projet/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/posts/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/posts/projets-personnels/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/contact/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/mp2i/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/informatique/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://prepas-mp2i.fr/admission/</loc><lastmod>2022-06-12T11:06:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://prepas-mp2i.fr/mentions-legales/</loc><priority>0</priority></url><url>
             <loc>https://prepas-mp2i.fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://prepas-mp2i.fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
